@@ -19,6 +19,11 @@
 [class*="col-"] {
     flex: 0 0 auto;
 }
+.vert{
+    height: ;
+
+}
+
 
 .col-1{
     flex-basis: calc((100% / 12)* 1);
