@@ -17,3 +17,15 @@
 .contenitoreset{
     margin-top: 20px;
 }
+.color{
+    background-color: blue;
+}
+.back{
+    background-color: chartreuse;
+    border-bottom: 10px solid blue;
+    border-top: 10px solid blue;
+    border-left: none;
+    border-right: none;
+}
+
+

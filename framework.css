@@ -23,6 +23,30 @@
 [class*="col-"] {
     flex: 0 0 auto;
 }
+.inizio{
+    justify-content: flex-start;
+}
+.centro{
+    justify-content: center;
+}
+.fine{
+    justify-content: flex-end;
+}
+.x .row{
+    justify-content: flex-end;
+}
+.space{
+    justify-content: space-around;
+}
+
+.centre{
+    align-items: center;
+    line-height: 100px;
+}
+.end{
+    align-items: flex-end;
+    line-height: 100px;
+}
 
 
 .col-1{
