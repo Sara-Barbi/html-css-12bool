@@ -7,12 +7,17 @@
     max-width: 1170px;
     margin: 0 auto;
 }
+.cont-fluid{
+    width: 100%;
+    max-width: 100%;
+}
 .contenitoreset{
     max-width: 1170px;
     margin: 0 auto;
 }
 .row{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 .col{
@@ -47,6 +52,11 @@
     align-items: flex-end;
     line-height: 100px;
 }
+.between{
+    justify-content:space-between ;
+    
+}
+
 
 
 .col-1{
